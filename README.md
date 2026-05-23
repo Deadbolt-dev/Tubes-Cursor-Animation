@@ -2,7 +2,7 @@
 A smooth, modern tubes-style cursor animation built entirely using HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
-
+https://deadbolt-dev.github.io/Tubes-Cursor-Animation
 
 ## 💻 Tech Used
 - HTML
